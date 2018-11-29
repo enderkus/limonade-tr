@@ -3,6 +3,10 @@ Limonade PHP Framework Türçe İçerik
 
 Kaynak : https://github.com/sofadesign/limonade/
 
+# Gerekli Olanlar
+
+* PHP 5.1.6 ya da daha üstü bir versiyon.
+
 # Açıklama 
 
 Limonade hafif bir PHP framework olarak karşımıza çıkmakta. Hızlı geliştirilmesi gereken projeler için ve çok yer kaplamayan, kafa karıştırmayan projeleriniz için destek sunabilecek bir yapıya sahip. Yapı itibarı ile Ruby frameworkü olan Sinatra'ya yakındır. Zaten geliştiricilerde esinlendiğini belirtmekte.
